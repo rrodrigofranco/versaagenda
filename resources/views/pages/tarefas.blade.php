@@ -45,8 +45,6 @@
                                             </span>
                                         </button>
                                     </form>
-
-                                    <!-- <a href="index.php?pag=&funcao=presenca&id_aluno=&id_aula=&id= ?>" title='Deletar'><i class='fas fa-trash'></i></a> -->
                                 </td>
                             @empty
                                 <h2>Não existem tarefas marcadas</h2>
