@@ -31,7 +31,7 @@
                 <div class="icon">
                     <i class="ion ion-person-add"></i>
                 </div>
-                <a href="/tarefas/pendentes" class="small-box-footer">Veja mais <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="./tarefas/pendentes" class="small-box-footer">Veja mais <i class="fas fa-arrow-circle-right"></i></a>
             </div>
         </div>
     </div>
@@ -46,7 +46,5 @@
 @stop
 
 @section('js')
-    <script>
-        console.log('Hi!');
-    </script>
+
 @stop
